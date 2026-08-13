@@ -1,16 +1,14 @@
 <div align="center">
 
-# Hi, I'm Kusal Tharindu 👋
+# Kusal Tharindu
 
 ### Cloud & DevOps Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Building+infrastructure+that+ships+itself;CI%2FCD+%C2%B7+Kubernetes+%C2%B7+Automation;From+commit+to+production+%F0%9F%9A%80)](https://github.com/kusal-tharindu)
+I build infrastructure that ships itself — CI/CD, Kubernetes, and automation that take code from commit to production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu)
-[![Oxelan](https://img.shields.io/badge/oxelan.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://oxelan.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kusal-tharindu/badges)
-
-`MIET` `MBCS` `BSc`
+![MIET](https://img.shields.io/badge/MIET-1f6feb?style=flat-square)
+![MBCS](https://img.shields.io/badge/MBCS-7B42BC?style=flat-square)
+![BSc](https://img.shields.io/badge/BSc-2496ED?style=flat-square)
 
 </div>
 
@@ -18,8 +16,8 @@
 
 ## 🚀 Live in Production
 
-### [BudgetGuardian](https://getbudgetguardian.com/) — Fintech Aggregator
-Consumer platform aggregating credit card offers across Sri Lanka, built and run end-to-end with the same practices client work gets.
+### ⭐ [BudgetGuardian](https://getbudgetguardian.com/) — Fintech Aggregator Platform
+*Most popular project* — a consumer platform aggregating credit card offers across Sri Lanka, built and run end-to-end with the same practices client work gets.
 
 | Banks | Active Offers | Refresh | Services | Deploys |
 |:---:|:---:|:---:|:---:|:---:|
@@ -29,11 +27,11 @@ Consumer platform aggregating credit card offers across Sri Lanka, built and run
 
 <br>
 
-### [Oxelan](https://oxelan.com/) — DevOps · Cloud · SRE Consultancy
+### [Oxelan](https://oxelan.com/) — DevOps, Cloud & SRE Consultancy
 Fixed-scope engagements: infrastructure audits, zero-to-launch builds, and CI/CD pipelines that make deploys boring again.
 
-### [DevOps Hub](https://devops.oxelan.com/) — Community Resource
-A free, community-driven Q&A resource covering Linux, Docker, Terraform, Kubernetes, Bash & Python for interview prep.
+### [DevOps Hub](https://devops.oxelan.com/) — Interview Prep Knowledge Base
+A free, community-driven Q&A resource covering Linux, Docker, Terraform, Kubernetes, Bash & Python.
 
 <br>
 
@@ -62,15 +60,17 @@ A free, community-driven Q&A resource covering Linux, Docker, Terraform, Kuberne
 
 ## 🎓 Credentials & Research
 
-- **IEEE Published Researcher** — peer-reviewed contributions in the field
+- **Published Researcher, IEEE Xplore** — [View paper →](https://ieeexplore.ieee.org/document/11169880)
 - **180+ vendor certifications** across Microsoft, IBM, Huawei, Cisco & Oracle
 - **[View the full badge collection on Credly →](https://www.credly.com/users/kusal-tharindu/badges)**
 
 <br>
 
+## 📬 Connect
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu)
 [![Website](https://img.shields.io/badge/oxelan.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oxelan.com)
 
 </div>

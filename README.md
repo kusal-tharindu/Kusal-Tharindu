@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & DevOps Engineer</h3>
 
 <p align="center">
-  I build infrastructure that ships itself — CI/CD, Kubernetes, and automation that take code from commit to production.
+  I build infrastructure that ships itself : CI/CD, Kubernetes, and automation that take code from commit to production.
 </p>
 
 <p align="center">

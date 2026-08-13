@@ -1,7 +1,5 @@
 <div align="center">
 
-# Kusal Tharindu
-
 ### Cloud & DevOps Engineer
 
 I build infrastructure that ships itself — CI/CD, Kubernetes, and automation that take code from commit to production.

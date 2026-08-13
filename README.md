@@ -1,29 +1,79 @@
-# 💫 About Me:
-I am interested in cyber security and network engineering. Also I am Passionate about driving growth through technology innovation. My objective is to continuously expand my set of IT skills and responsibilities through personal and professional career.<br><br>To advance my career in this space I have undertaken additional studies to extend my knowledge and skills into this specialty. My passion for cyber security has me constantly involved in developing my skills in network security & Incident Response, Malware Reverse Engineering and Security Operations.
+<h1 align="center">Hi 👋, I'm Kusal Tharindu</h1>
+<h3 align="center">DevOps Engineer</h3>
 
+<p align="center">
+  Passionate about Cloud Infrastructure, CI/CD, Containerization, and Infrastructure Automation.
+</p>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tharindu_kusal) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus%20Certified%20Associate-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="PCA"/>
+  <img src="https://img.shields.io/badge/MIET-1a1a2e?style=for-the-badge" alt="MIET"/>
+  <img src="https://img.shields.io/badge/MBCS-1a1a2e?style=for-the-badge" alt="MBCS"/>
+  <img src="https://img.shields.io/badge/IEEE%20Published%20Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Researcher"/>
+</p>
 
-## Wanna read my articles?
+---
 
-* <img src="https://kusal.dtk2globle.com/assets/images/logo/last.png" height="20"/>&nbsp; [Portfolio](https://kusal.dtk2globle.com/)
-* <img src="https://1.bp.blogspot.com/-FAZt0e1ahsk/YJVuGsoDC1I/AAAAAAAAAI8/KNj3GmSpX6AI-tsXnBHWjRqaycmM8PH4gCK4BGAYYCw/s1600/DTK%2B%25281%2529.png" height="20"/>&nbsp; [Personal Blog](https://www.dtk2globle.com/)
+### 🧭 About Me
 
-# 💻 Tech Stack:
+I'm a DevOps Engineer focused on building reliable, automated, and observable infrastructure. My work centers on cloud platforms, container orchestration, and CI/CD pipelines that let teams ship faster without sacrificing stability. I hold the Prometheus Certified Associate (PCA) certification, am a member of MIET and MBCS, and have published IEEE research on Cloud and Kubernetes systems.
 
-[![My Skills](https://skillicons.dev/icons?i=java,aws,azure,cloudflare,c,cpp,git,linux,py&theme=dark)](https://www.dtk2globle.com)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kusal-tharindu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kusal-tharindu&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusal-tharindu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### ⚙️ Tech Stack
 
+**☁️ Cloud & Infrastructure**
 
-# 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=kusal-tharindu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-  # 💰 You can help me by Donating
+**🔁 CI/CD & Monitoring**
 
-  <a href="https://www.buymeacoffee.com/kusal26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a>
-  
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+**🧰 Scripting & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+### 🎯 Key Focus Areas & Projects
+
+- **DevOps Q&A Lab** — a web portal for technical interview preparation, cloud architecture patterns, and operational knowledge for DevOps practitioners.
+- **Multi-branch CI/CD Pipelines** — designing and maintaining Jenkins multi-branch pipelines and GitHub Actions workflows for automated build, test, and deploy stages.
+- **Container Orchestration** — automating deployment and scaling of containerized workloads with Docker Swarm and Kubernetes.
+- **Observability** — implementing monitoring and alerting stacks using Prometheus and Grafana across cloud infrastructure.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/kusal-tharindu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dtk2lab.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>

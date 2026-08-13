@@ -1,41 +1,48 @@
-<h1 align="center">Kusal Tharindu</h1>
-<h3 align="center">Cloud & DevOps Engineer</h3>
+<div align="center">
 
-<p align="center">
-  I build infrastructure that ships itself — CI/CD, Kubernetes, and automation that take code from commit to production.
-</p>
+# Kusal Tharindu
 
-<p align="center">
-  PCA &nbsp;·&nbsp; MIET &nbsp;·&nbsp; MBCS &nbsp;·&nbsp; IEEE Published Researcher
-</p>
+### Cloud & DevOps Engineer
 
----
+I build infrastructure that ships itself — CI/CD, Kubernetes, and automation that take code from commit to production.
 
-### Live in Production
+![MIET](https://img.shields.io/badge/MIET-1f6feb?style=flat-square)
+![MBCS](https://img.shields.io/badge/MBCS-7B42BC?style=flat-square)
+![BSc](https://img.shields.io/badge/BSc-2496ED?style=flat-square)
+![Courses & Certifications](https://img.shields.io/badge/200%2B%20Courses%20%26%20Certifications-E6522C?style=flat-square)
 
-**[BudgetGuardian](https://getbudgetguardian.com/)** — a consumer platform aggregating credit card offers across Sri Lanka, built and run end-to-end with the same practices client work gets.
-&nbsp;&nbsp;`10+ banks` · `1,200+ active offers` · `daily auto-refresh` · `8 containerized services` · `zero-downtime CI/CD`
-→ [Browse live offers](https://offer.getbudgetguardian.com/)
+</div>
 
-**[Oxelan](https://oxelan.com/)** — my DevOps/cloud/SRE consultancy. Fixed-scope engagements: infrastructure audits, zero-to-launch builds, and CI/CD pipelines that make deploys boring again.
+<br>
 
-**[DevOps Hub](https://devops.oxelan.com/)** — a free, community-driven Q&A resource covering Linux, Docker, Terraform, Kubernetes, Bash & Python for interview prep.
+## 🚀 Live in Production
 
----
+- **[BudgetGuardian](https://getbudgetguardian.com/)** — aggregates credit card offers from banks across Sri Lanka in one place.
+- **[Oxelan](https://oxelan.com/)** — my DevOps/cloud consultancy for infrastructure audits and CI/CD builds.
+- **[DevOps Hub](https://devops.oxelan.com/)** — free Q&A resource for DevOps interview prep.
 
-### How I Build
+<br>
 
-| | |
-|---|---|
-| **Provision & Automate** | AWS · Terraform · Bash |
-| **Ship & Deploy** | Docker · Kubernetes · Jenkins · GitHub Actions |
-| **Observe & Operate** | Prometheus · Grafana · NGINX |
+## 🛠️ Tech Stack
 
-<sub>180+ vendor certifications (Microsoft, IBM, Huawei, Cisco, Oracle) — [Credly](https://www.credly.com/users/kusal-tharindu/badges)</sub>
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,bash,docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx)](https://skillicons.dev)
 
----
+<br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/kusal-tharindu">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://oxelan.com">oxelan.com</a>
-</p>
+## 🎓 Credentials & Research
+
+- **Published Researcher, IEEE Xplore** — [View paper →](https://ieeexplore.ieee.org/document/11169880)
+- **180+ vendor certifications** across Microsoft, IBM, Huawei, Cisco & Oracle
+- **[View the full badge collection on Credly →](https://www.credly.com/users/kusal-tharindu/badges)**
+
+<br>
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kusal-tharindu"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" alt="" valign="middle" /> <b>LinkedIn</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://oxelan.com"><img src="https://oxelan.com/img/logo/mark.svg" width="20" height="20" alt="" valign="middle" /> <b>oxelan.com</b></a>
+
+</div>

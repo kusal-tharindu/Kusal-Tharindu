@@ -18,7 +18,7 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 ## 🚀 Live in Production
 
 - **[BudgetGuardian](https://getbudgetguardian.com/)** — aggregates credit card offers from banks across Sri Lanka in one place.
-- **[Oxelan](https://oxelan.com/)** — my DevOps/cloud consultancy for infrastructure audits and CI/CD builds.
+- <img src="https://oxelan.com/img/logo/mark.svg" width="16" height="16" alt="" valign="middle" /> **[Oxelan](https://oxelan.com/)** — my DevOps/cloud consultancy for infrastructure audits and CI/CD builds.
 - **[DevOps Hub](https://devops.oxelan.com/)** — free Q&A resource for DevOps interview prep.
 
 <br>

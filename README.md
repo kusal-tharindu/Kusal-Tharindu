@@ -9,6 +9,7 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 ![MIET](https://img.shields.io/badge/MIET-1f6feb?style=flat-square)
 ![MBCS](https://img.shields.io/badge/MBCS-7B42BC?style=flat-square)
 ![BSc](https://img.shields.io/badge/BSc-2496ED?style=flat-square)
+![Courses & Certifications](https://img.shields.io/badge/200%2B%20Courses%20%26%20Certifications-E6522C?style=flat-square)
 
 </div>
 

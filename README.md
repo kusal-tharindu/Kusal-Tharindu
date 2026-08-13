@@ -18,7 +18,7 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 ## 🚀 Live in Production
 
 - **[BudgetGuardian](https://getbudgetguardian.com/)** — aggregates credit card offers from banks across Sri Lanka in one place.
-- <img src="https://oxelan.com/img/logo/mark.svg" width="16" height="16" alt="" valign="middle" /> **[Oxelan](https://oxelan.com/)** — my DevOps/cloud consultancy for infrastructure audits and CI/CD builds.
+- **[Oxelan](https://oxelan.com/)** — my DevOps/cloud consultancy for infrastructure audits and CI/CD builds.
 - **[DevOps Hub](https://devops.oxelan.com/)** — free Q&A resource for DevOps interview prep.
 
 <br>
@@ -42,6 +42,6 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu)
-[![Website](https://img.shields.io/badge/oxelan.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oxelan.com)
+<a href="https://oxelan.com"><img src="https://oxelan.com/img/logo/mark.svg" width="16" height="16" alt="" valign="middle" /> <b>oxelan.com</b></a>
 
 </div>

@@ -25,17 +25,7 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 
 ## 🛠️ Tech Stack
 
-**Provision & Automate**
-
-[![AWS, Terraform, Bash](https://skillicons.dev/icons?i=aws,terraform,bash)](https://skillicons.dev)
-
-**Ship & Deploy**
-
-[![Docker, Kubernetes, Jenkins, GitHub Actions](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions)](https://skillicons.dev)
-
-**Observe & Operate**
-
-[![Prometheus, Grafana, NGINX](https://skillicons.dev/icons?i=prometheus,grafana,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,bash,docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx)](https://skillicons.dev)
 
 <br>
 

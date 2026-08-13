@@ -41,7 +41,8 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu)
-<a href="https://oxelan.com"><img src="https://oxelan.com/img/logo/mark.svg" width="16" height="16" alt="" valign="middle" /> <b>oxelan.com</b></a>
+<a href="https://linkedin.com/in/kusal-tharindu"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="" valign="middle" /> <b>LinkedIn</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://oxelan.com"><img src="https://oxelan.com/img/logo/mark.svg" width="20" height="20" alt="" valign="middle" /> <b>oxelan.com</b></a>
 
 </div>

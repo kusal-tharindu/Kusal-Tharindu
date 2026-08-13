@@ -27,22 +27,15 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 
 **Provision & Automate**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+[![AWS, Terraform, Bash](https://skillicons.dev/icons?i=aws,terraform,bash)](https://skillicons.dev)
 
 **Ship & Deploy**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+[![Docker, Kubernetes, Jenkins, GitHub Actions](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions)](https://skillicons.dev)
 
 **Observe & Operate**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+[![Prometheus, Grafana, NGINX](https://skillicons.dev/icons?i=prometheus,grafana,nginx)](https://skillicons.dev)
 
 <br>
 

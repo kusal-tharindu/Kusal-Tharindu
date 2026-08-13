@@ -16,22 +16,19 @@ I build infrastructure that ships itself — CI/CD, Kubernetes, and automation t
 
 ## 🚀 Live in Production
 
-### ⭐ [BudgetGuardian](https://getbudgetguardian.com/) — Fintech Aggregator Platform
-*Most popular project* — a consumer platform aggregating credit card offers across Sri Lanka, built and run end-to-end with the same practices client work gets.
-
-| Banks | Active Offers | Refresh | Services | Deploys |
-|:---:|:---:|:---:|:---:|:---:|
-| 10+ | 1,200+ | Daily auto | 8 containerized | Zero-downtime CI/CD |
-
-**→ [Browse live offers](https://offer.getbudgetguardian.com/)**
+> ### 🏆 [BudgetGuardian](https://getbudgetguardian.com/) · Fintech Aggregator Platform
+> **Flagship project** — a consumer platform aggregating credit card offers across Sri Lanka, built and run end-to-end with the same practices client work gets.
+>
+> ![Banks](https://img.shields.io/badge/Banks-10%2B-1f6feb?style=flat-square) ![Offers](https://img.shields.io/badge/Active%20Offers-1%2C200%2B-1f6feb?style=flat-square) ![Refresh](https://img.shields.io/badge/Refresh-Daily%20Auto-1f6feb?style=flat-square) ![Services](https://img.shields.io/badge/Services-8%20Containerized-1f6feb?style=flat-square) ![Deploys](https://img.shields.io/badge/Deploys-Zero%20Downtime-1f6feb?style=flat-square)
+>
+> **[→ Browse live offers](https://offer.getbudgetguardian.com/)**
 
 <br>
 
-### [Oxelan](https://oxelan.com/) — DevOps, Cloud & SRE Consultancy
-Fixed-scope engagements: infrastructure audits, zero-to-launch builds, and CI/CD pipelines that make deploys boring again.
-
-### [DevOps Hub](https://devops.oxelan.com/) — Interview Prep Knowledge Base
-A free, community-driven Q&A resource covering Linux, Docker, Terraform, Kubernetes, Bash & Python.
+| Project | Focus | What it does |
+|---|---|---|
+| **[Oxelan](https://oxelan.com/)** | DevOps · Cloud · SRE Consultancy | Fixed-scope engagements — infrastructure audits, zero-to-launch builds, and CI/CD pipelines that make deploys boring again. |
+| **[DevOps Hub](https://devops.oxelan.com/)** | Interview Prep Knowledge Base | Free, community-driven Q&A resource covering Linux, Docker, Terraform, Kubernetes, Bash & Python. |
 
 <br>
 
